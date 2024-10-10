@@ -1,4 +1,4 @@
 # GitDemo
 Git and GitHub tutorial
 <br>
-Author-Vanita Tripathi
+Author-Vinni the Pooh
